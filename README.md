@@ -177,7 +177,7 @@ SUM(sales)   OVER (PARTITION BY customer_id ORDER BY order_date ROWS UNBOUNDED P
 
 ## 👤 Author
 
-**[Your Name]**  
+**Manoj Jadhav**  
 Celebal Summer Internship 2026 — SQL Track  
 Celebal Technologies
 
